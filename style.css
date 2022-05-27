@@ -19,7 +19,7 @@ body {
 	padding-left: 8px;
 	padding-right: 8px;
 	font-size: 1.0em;
-	width: 175px;
+	width: auto;
 	white-space: nowrap;
     text-align: left;
     vertical-align: top;
@@ -29,18 +29,7 @@ body {
 	background: #f4f4f4;
     vertical-align: top;
 }
-#layout-menu-research {
-	background: #f6f6f6;
-	border: 1px solid #dddddd;
-	padding-top: 0.5em;
-	padding-left: 8px;
-	padding-right: 8px;
-	font-size: 1.0em;
-	width: 50px;
-	white-space: nowrap;
-    text-align: left;
-    vertical-align: top;
-}
+
 
 #layout-content {
 	padding-top: 0.0em;
