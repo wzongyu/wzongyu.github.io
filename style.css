@@ -19,7 +19,7 @@ body {
 	padding-left: 8px;
 	padding-right: 8px;
 	font-size: 1.0em;
-	width: 100px;
+	width: 175px;
 	white-space: nowrap;
     text-align: left;
     vertical-align: top;
@@ -29,7 +29,6 @@ body {
 	background: #f4f4f4;
     vertical-align: top;
 }
-
 
 #layout-content {
 	padding-top: 0.0em;
